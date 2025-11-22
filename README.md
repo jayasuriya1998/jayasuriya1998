@@ -83,7 +83,7 @@ A **wearable central module** featuring:
 - SD card for **local data logging**  
 - USB-CDC for PC tool integration  
 
-📌 *Planned repo:* `wearable-central-module-stm32`
+
 
 ---
 
@@ -96,7 +96,6 @@ A **wearable central module** featuring:
   - Safe rollback if update fails  
 - Python-based **PC flashing tool** for smooth field updates  
 
-📌 *Planned repo:* `mspm0-dual-bank-bootloader` & `mspm0-uart-flasher`
 
 ---
 
@@ -107,7 +106,6 @@ A **wearable central module** featuring:
   - CC2652R7-based **central module with BLE**
 - Designed for **synchronized motion capture** & reliable multi-node acquisition
 
-📌 *Planned repo:* `imu-rs485-network`  
 
 ---
 
@@ -117,28 +115,7 @@ A **wearable central module** featuring:
 - Designed for **accurate environmental/skin monitoring**  
 - Real-time **cloud connectivity** for remote logging and analysis  
 
-📌 *Planned repo:* `wearable-temp-humidity-iot`
-
 ---
-
-## 📈 GitHub Vibes
-
-> Replace `jayasuriya1998` with your actual username.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayasuriya1998&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharusha's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasuriya1998&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasuriya1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Let’s Connect & Build Cool Things
 
 - 💌 **Email:** [tharushajayasuriya1013@gmail.com](mailto:tharushajayasuriya1013@gmail.com)  
