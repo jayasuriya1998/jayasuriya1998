@@ -119,7 +119,7 @@ A **wearable central module** featuring:
 ## 🤝 Let’s Connect & Build Cool Things
 
 - 💌 **Email:** [tharushajayasuriya1013@gmail.com](mailto:tharushajayasuriya1013@gmail.com)  
-- 💼 **LinkedIn:** [Tharusha Hansima](https://www.linkedin.com/in/tharusha-hansima)  
+- 💼 **LinkedIn:** [Tharusha Hansima](https://www.linkedin.com/in/tharusha-hansima-637a68118)  
 
 If you’re working on **wearables, IoT devices, custom sensors, or embedded R&D**,  
 I’d love to collaborate, brainstorm, or help bring your ideas to life. ⚡
