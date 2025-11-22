@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="mailto:tharushajayasuriya1013@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/tharusha-hansima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tharusha%20Hansima-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/tharusha-hansima-637a68118/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tharusha%20Hansima-blue?style=for-the-badge&logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-ffb703?style=for-the-badge&logo=google-maps" />
 </p>
 
