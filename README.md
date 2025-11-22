@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,100:1e293b&text=Tharusha%20Hansima&fontColor=ffffff&fontSize=48&animation=fadeIn" alt="Tharusha Hansima Banner" />
 </p>
 
-<h1 align="center">👋 Hey, I'm <b>Tharusha Hansima</b></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#000080;">Tharusha Hansima</span></h1>
 
 <p align="center">
   <b>Electronic & Embedded Systems Engineer</b><br/>
@@ -122,7 +122,7 @@ A **wearable central module** featuring:
 
 ## 📈 GitHub Vibes
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual username.
+> Replace `jayasuriya1998` with your actual username.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharusha's GitHub Stats" />
