@@ -1,6 +1,7 @@
 <!-- Banner (Optional) – you can replace this with your own image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,100:1e293b&text=Tharusha%20Hansima&fontColor=ffffff&fontSize=48&animation=fadeIn" alt="Tharusha Hansima Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:ffffff,100:ffffff&text=&fontSize=0" />
+
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#000080;">Tharusha Hansima</span></h1>
